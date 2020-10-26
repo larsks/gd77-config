@@ -1,0 +1,128 @@
+Data type,Name,Channel Type,Rx Frequency,Tx Frequency,Color Code,Timeslot,Contact,Contact Type, Contact Id,Rx Group,Scanlist,Zone,RX CTCSS,TX CTCSS,Power,Bandwidth,Rx Only,Squelch,Tx Admit,TOT,TOT Rekey,Tx Signaling,Rx Signaling,Privacy Group,Emergency System,Flags1,Flags2,Flags3,Flags4,RssiThreshold,VoiceEmphasis,TxSignaling,UnmuteRule,RxSignaling
+CH_DATA,WX1,Analog,162.55000,162.55000,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,FRS 01,Analog,462.56250,462.56250,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 02,Analog,462.58750,462.58750,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 03,Analog,462.61250,462.61250,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 04,Analog,462.63750,462.63750,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 05,Analog,462.66250,462.66250,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 06,Analog,462.68750,462.68750,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 07,Analog,462.71250,462.71250,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 08,Analog,467.56250,467.56250,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 09,Analog,467.58750,467.58750,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 10,Analog,467.61250,467.61250,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 11,Analog,467.63750,467.63750,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 12,Analog,467.66250,467.66250,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 13,Analog,467.68750,467.68750,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 14,Analog,467.71250,467.71250,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 15,Analog,462.55000,462.55000,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 16,Analog,462.57500,462.57500,0,1,N/A,0,N/A,None,FRS 1,FRS1,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 17,Analog,462.60000,462.60000,0,1,N/A,0,N/A,None,FRS 2,FRS2,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 18,Analog,462.62500,462.62500,0,1,N/A,0,N/A,None,FRS 2,FRS2,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 19,Analog,462.65000,462.65000,0,1,N/A,0,N/A,None,FRS 2,FRS2,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 20,Analog,462.67500,462.67500,0,1,N/A,0,N/A,None,FRS 2,FRS2,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 21,Analog,462.70000,462.70000,0,1,N/A,0,N/A,None,FRS 2,FRS2,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,FRS 22,Analog,462.72500,462.72500,0,1,N/A,0,N/A,None,FRS 2,FRS2,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,GMRS 01,Analog,462.56250,462.56250,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 02,Analog,462.58750,462.58750,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 03,Analog,462.61250,462.61250,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 04,Analog,462.63750,462.63750,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,Low,25,No,Normal,0,0,5,0,0,0,0,0,0,0,3,-80,0,0,0,0,22
+CH_DATA,GMRS 05,Analog,462.66250,462.66250,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 06,Analog,462.68750,462.68750,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 07,Analog,462.71250,462.71250,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 08,Analog,462.55000,462.55000,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 09,Analog,462.57500,462.57500,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 10,Analog,462.60000,462.60000,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 11,Analog,462.62500,462.62500,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 12,Analog,462.65000,462.65000,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 13,Analog,462.67500,462.67500,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 14,Analog,462.70000,462.70000,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,GMRS 15,Analog,462.72500,462.72500,0,1,N/A,0,N/A,None,GMRS,GMRS,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,BARC DMR NE,Digital,449.17500,444.17500,1,1,N/A,0,N/A,New England,None,BOS DMR,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Acton PD,Analog,154.81500,154.81500,0,1,N/A,0,N/A,None,FRS 1,Middlsx Police,173.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,MURS 1,Analog,151.82000,151.82000,0,1,N/A,0,N/A,None,None,MURS,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,MURS 2,Analog,151.88000,151.88000,0,1,N/A,0,N/A,None,None,MURS,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,MURS 3,Analog,151.94000,151.94000,0,1,N/A,0,N/A,None,None,MURS,None,None,Low,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,1,-80,0,0,0,0,22
+CH_DATA,MURS 4,Analog,154.57000,154.57000,0,1,N/A,0,N/A,None,None,MURS,None,None,Low,25,No,Normal,0,0,5,0,0,0,0,0,0,0,3,-80,0,0,0,0,22
+CH_DATA,MURS 5,Analog,154.60000,154.60000,0,1,N/A,0,N/A,None,None,MURS,None,None,Low,25,No,Normal,0,0,5,0,0,0,0,0,0,0,3,-80,0,0,0,0,22
+CH_DATA,Arlington PD,Analog,471.16300,471.16300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Ashby PD,Analog,453.68800,453.68800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,91.5,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Ashland PD,Analog,483.11300,483.11300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,123.0,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Ayer PD,Analog,158.79000,158.79000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,151.4,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Belmont PD,Analog,471.41300,471.41300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,2M Calling,Analog,146.52500,146.52500,0,1,N/A,0,N/A,None,BOS HAM,Natl Calling,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,70CM Calling,Analog,466.00000,466.00000,0,1,N/A,0,N/A,None,BOS HAM,Natl Calling,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Billerica PD,Analog,484.02500,484.02500,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Boxboro PD,Analog,155.64800,155.64800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,136.5,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Burlington PD,Analog,482.48800,482.48800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Cambridge PD,Analog,470.31300,470.31300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Chelmsford PD,Analog,482.51300,482.51300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Concord PD,Analog,482.33800,482.33800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Dracut PD,Analog,482.88800,482.88800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Dunstable PD,Analog,155.58000,155.58000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,94.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,KA1UAG 1,Analog,146.95500,145.35500,0,1,N/A,0,N/A,None,None,None,131.8,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,KA1UAG 2,Analog,146.73000,146.13000,0,1,N/A,0,N/A,None,None,None,131.8,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,W1FN UHF,Analog,443.55000,448.55000,0,1,N/A,0,N/A,None,None,None,136.5,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,W1FN VHF,Analog,145.33000,144.73000,0,1,N/A,0,N/A,None,None,None,100.0,100.0,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,W1ET,Analog,444.95000,449.95000,0,1,N/A,0,N/A,None,None,None,None,88.5,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,W1FN,Analog,145.33000,144.73000,0,1,N/A,0,N/A,None,None,None,100.0,100.0,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,K1EME,Analog,147.34500,147.94500,0,1,N/A,0,N/A,None,None,None,None,114.8,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Everett PD,Analog,470.81300,470.81300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Framingham PD,Analog,471.76300,471.76300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Groton PD,Analog,155.58000,155.58000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,94.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,MMRA BEL,Analog,145.43000,144.83000,0,1,N/A,0,N/A,None,BOS HAM,BOS MMRA,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,MMRA QCY,Analog,146.67000,146.07000,0,1,N/A,0,N/A,None,BOS HAM,BOS MMRA,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,MMRA DTN,Analog,146.82000,146.22000,0,1,N/A,0,N/A,None,BOS HAM,BOS MMRA,None,127.3,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,MMRA BBY,Analog,146.82000,146.22000,0,1,N/A,0,N/A,None,BOS HAM,BOS MMRA,None,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,MMRA HUB1,Analog,449.92500,444.92500,0,1,N/A,0,N/A,None,BOS HAM,BOS MMRA,88.5,88.5,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,MMRA HUB2,Analog,442.70000,447.70000,0,1,N/A,0,N/A,None,BOS HAM,BOS MMRA,88.5,88.5,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Holliston PD,Analog,471.33800,471.33800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,123.0,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Hopkinton PD,Analog,471.61300,471.61300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,123.0,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Lincoln PD,Analog,483.00000,483.00000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Littleton PD,Analog,155.85000,155.85000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,151.4,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,BARC,Analog,145.23000,144.63000,0,1,N/A,0,N/A,None,BOS HAM,BOS OTHER,88.5,100.0,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,WARA 2M,Analog,146.64000,146.04000,0,1,N/A,0,N/A,None,BOS HAM,BOS OTHER,136.5,136.5,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,WARA 70CM,Analog,449.07500,444.07500,0,1,N/A,0,N/A,None,BOS HAM,BOS OTHER,None,88.5,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,MIT,Analog,449.72500,444.72500,0,1,N/A,0,N/A,None,BOS HAM,BOS OTHER,114.8,114.8,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Lowell PD,Analog,453.12500,453.12500,0,1,N/A,0,N/A,None,N/A,Middlsx Police,192.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Malden PD,Analog,470.76300,470.76300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Maynard PD,Analog,155.01000,155.01000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,107.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Medford PD,Analog,470.58800,470.58800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Melrose PD,Analog,471.03800,471.03800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Natick PD,Analog,472.73800,472.73800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,WX2,Analog,162.40000,162.40000,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,WX3,Analog,162.47500,162.47500,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,WX4,Analog,162.42500,162.42500,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,WX5,Analog,162.45000,162.45000,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,WX6,Analog,162.50000,162.50000,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,WX7,Analog,162.52500,162.52500,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,WX8,Analog,161.65000,161.65000,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,WX9,Analog,161.77500,161.77500,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,WX10,Analog,163.27500,163.27500,0,1,N/A,0,N/A,None,WX,WEATHER,None,None,High,25,Yes,Normal,0,0,5,0,0,0,0,0,0,0,135,-80,0,0,0,0,22
+CH_DATA,Newton PD,Analog,470.38800,470.38800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,North Reading PD,Analog,482.73800,482.73800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Pepperell PD,Analog,482.80000,482.80000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,127.3,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Sherborn PD,Analog,471.63800,471.63800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,114.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Shirley PD,Analog,155.53500,155.53500,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Somerville PD,Analog,453.55000,453.55000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,141.3,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Stoneham PD,Analog,482.53800,482.53800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Tewksbury PD,Analog,483.50000,483.50000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Townsend PD,Analog,453.82500,453.82500,0,1,N/A,0,N/A,None,N/A,Middlsx Police,186.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Tyngsboro PD,Analog,484.87500,484.87500,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Wakefield PD,Analog,471.78800,471.78800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Watertown PD,Analog,470.71300,470.71300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Wayland PD,Analog,484.43800,484.43800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Westford PD,Analog,483.12500,483.12500,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Weston PD,Analog,472.23800,472.23800,0,1,N/A,0,N/A,None,N/A,Middlsx Police,203.5,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Wilmington PD,Analog,482.31300,482.31300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Winchester PD,Analog,471.36300,471.36300,0,1,N/A,0,N/A,None,N/A,Middlsx Police,131.8,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Woburn PD,Analog,471.65000,471.65000,0,1,N/A,0,N/A,None,N/A,Middlsx Police,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,BARC DMR ALL,Digital,449.17500,444.17500,1,1,N/A,0,N/A,All Groups,BOS DMR 1,BOS DMR,None,None,High,12.5,No,Normal,0,0,5,0,0,0,0,0,0,0,129,-80,0,0,0,0,22
+CH_DATA,Radio Check,Analog,157.35000,161.95000,0,1,N/A,0,N/A,None,MARINE,BOS MARINE,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Emergency,Analog,156.80000,156.80000,0,1,N/A,0,N/A,None,MARINE,BOS MARINE,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Calling 09,Analog,156.45000,156.45000,0,1,N/A,0,N/A,None,MARINE,BOS MARINE,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Marine 10,Analog,156.50000,156.50000,0,1,N/A,0,N/A,None,MARINE,BOS MARINE,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Marine 12,Analog,156.60000,156.60000,0,1,N/A,0,N/A,None,MARINE,BOS MARINE,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Marine 13,Analog,156.65000,156.65000,0,1,N/A,0,N/A,None,MARINE,BOS MARINE,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Marine 21A,Analog,157.05000,157.05000,0,1,N/A,0,N/A,None,MARINE,BOS MARINE,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Marine 22A,Analog,157.10000,157.10000,0,1,N/A,0,N/A,None,MARINE,BOS MARINE,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
+CH_DATA,Marine 81A,Analog,157.07500,157.07500,0,1,N/A,0,N/A,None,MARINE,BOS MARINE,None,None,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
