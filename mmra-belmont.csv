@@ -1,0 +1,2 @@
+Data type,Name,Channel Type,Rx Frequency,Tx Frequency,Color Code,Timeslot,Contact,Contact Type, Contact Id,Rx Group,Scanlist,Zone,RX CTCSS,TX CTCSS,Power,Bandwidth,Rx Only,Squelch,Tx Admit,TOT,TOT Rekey,Tx Signaling,Rx Signaling,Privacy Group,Emergency System,Flags1,Flags2,Flags3,Flags4,RssiThreshold,VoiceEmphasis,TxSignaling,UnmuteRule,RxSignaling
+CH_DATA,MMRA BEL,Analog,145.43000,144.83000,0,1,N/A,0,N/A,None,BOS HAM,BOS MMRA,146.2,146.2,High,25,No,Normal,0,0,5,0,0,0,0,0,0,0,131,-80,0,0,0,0,22
